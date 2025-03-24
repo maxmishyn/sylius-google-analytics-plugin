@@ -85,6 +85,10 @@ If you discover any security related issues, please email office@spinbits.io ins
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
+## Compatibility
+
+This plugin is compatible with Sylius 1.12 and 1.13.
+
 [ico-version]: https://img.shields.io/packagist/v/spinbits/google-analytics-4-events-dto-s.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/spinbits/google-analytics-4-events-dto-s/master.svg?style=flat-square
